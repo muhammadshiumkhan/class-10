@@ -1,0 +1,18 @@
+h3{
+	color: red;
+	
+}
+.heading-1{
+	background-color: yellow;
+}
+.border{
+    border:2px dashed black;
+}
+p {
+	border: 2px solid powderblue;
+    padding: 30px;
+    margin: 50px;
+}
+#head{
+	font-size: 10px;
+}
